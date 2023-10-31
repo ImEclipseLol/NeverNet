@@ -1,6 +1,8 @@
 # NeverNet
 An HTTP loader (for educational purpouses)
 
+![NeverNet]([URL](https://i.ibb.co/rmmpMGp/nvrss.png) "NeverNet")
+
 # PSA
 This loader was created before I knew how to properly work with databases. As a result, the server's "databases" are a couple of JSON files in a folder.
 Writing to them also doesn't work, so unless you know how to fix them, do not touch this. 
