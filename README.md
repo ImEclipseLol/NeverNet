@@ -2,6 +2,7 @@
 An HTTP loader (for educational purpouses)
 
 ![NeverNet]([URL](https://i.ibb.co/rmmpMGp/nvrss.png) "NeverNet")
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 # PSA
 This loader was created before I knew how to properly work with databases. As a result, the server's "databases" are a couple of JSON files in a folder.
