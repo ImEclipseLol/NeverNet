@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "keys": [
+        "age",
+        "knows_python",
+        "name"
+    ],
+    "data": {
+        "225738971484349030": {
+            "name": "adwaith",
+            "age": 4,
+            "knows_python": true
+        },
+        "226030419963391539": {
+            "name": "adwaith",
+            "age": 4,
+            "knows_python": true
+        },
+        "255879690903857534": {
+            "name": "adwaith",
+            "age": 4,
+            "knows_python": true
+        }
+    }
+}
